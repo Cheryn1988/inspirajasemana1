@@ -19,3 +19,13 @@ color:rgb(76, 21, 21);
 
 }
 h3 { color:rgb(17, 17, 213); font-size: small;}
+
+#textojustificado {
+    text-align: justify;
+}
+
+#objetivo5 { 
+    width: 700px;
+    height: 500px;
+    padding: 10px;
+    }
